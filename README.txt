@@ -1,0 +1,5 @@
+用线性回归方法预测房价
+
+琢磨了点feature engineering方法用来筛选feature
+回归直接使用了sklearn库
+
